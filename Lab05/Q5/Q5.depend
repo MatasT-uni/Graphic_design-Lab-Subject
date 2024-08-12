@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1676346431 source:c:\users\user\onedrive\desktop\lab05\q5\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+
