@@ -1,7 +1,3 @@
-### Short Description
-
-**Graphic Design Lab** is a C++ project focused on developing graphic design tools and algorithms. The project explores fundamental concepts in computer graphics, such as rendering, transformation, and object manipulation, with the aim of creating a versatile toolkit for graphic design applications.
-
 ---
 
 ### README
